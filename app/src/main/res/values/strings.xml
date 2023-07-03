@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">tutorial7</string>
+    <string name="devices">Bluetooth Devices</string>
+    <string name="clear">Clear</string>
+    <string name="open_csv">OPEN CSV</string>
+    <string name="load_csv">LOAD CSV</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="reset">RESET</string>
+    <string name="save">SAVE</string>
+    <string name="csv_file_name">CSV file name (default: data.csv)</string>
+    <string name="count_of_actual_steps">Count of actual steps</string>
+    <string name="walking">Walking</string>
+    <string name="running">Running</string>
+    <string name="send_message_via_bluetooth">Send message via bluetooth</string>
+    <string name="file_name">File name</string>
+    <string name="exp_time">Experiment time</string>
+    <string name="activity_type">Activity type</string>
+    <string name="actual_steps">Count of actual steps</string>
+    <string name="estimated_number_of_steps">Estimated number of steps</string>
+    <string name="back">back</string>
+</resources>
